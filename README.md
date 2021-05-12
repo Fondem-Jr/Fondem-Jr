@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Fondem-Jr
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML/CSS
+- 🌱 I have finished learning HTML/CSS
+- 🌱 I'm currently learning Ruby
 - 💞️ I’m looking to collaborate on github.com/Fondem-Jr
 - 📫 How to reach me www.linkedin.com/in/fondem-junior-57484744/
 
